@@ -1,4 +1,7 @@
-sfpc-fall14
-===========
+Radical Computer Science
+========================
 
-Radical Computer Science at the School For Poetic Computation Fall 2014
+School For Poetic Computation, Fall 2014
+----------------------------------------
+
+Instruction in the design and implementation of programming languages in order to build new coding experiences.
